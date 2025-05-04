@@ -26,6 +26,18 @@ Na segunda parte do curso, aprofundamos na **plataforma Azure** com foco em:
 
 ---
 
+### 🔹 Benefícios da Computação em Nuvem (com Valéria Baptista)
+Foi abordado os principais benefícios da computação em nuvem no Microsoft Azure:
+- Alta disponibilidade: serviços acessíveis mesmo em caso de falhas.
+- Escalabilidade: aumenta ou reduz recursos conforme a demanda.
+- Elasticidade: ajuste automático dos recursos de forma eficiente.
+- Confiabilidade: infraestrutura distribuída, resiliente e segura.
+- Previsibilidade: controle sobre desempenho e custos.
+- Segurança: recursos e ferramentas para proteger dados e aplicações.
+- Governança: conformidade e auditoria com políticas da organização.
+- Gerenciabilidade: gerenciamento por portal, CLI, API ou PowerShell.
+
+---
 ## 🛠️ Organização do Repositório
 
 
